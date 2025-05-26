@@ -1,0 +1,453 @@
+{
+  "Shop": "Shop",
+  "Categories": "Categories",
+  "About": "About",
+  "Contact Us": "Contact Us",
+  "Track": "Track",
+  "Saved": "Saved",
+  "Account": "Account",
+  "special_offer": "Special Offer",
+  "shop_now": "Shop Now",
+  "learn_more": "Learn More",
+  "shop_by_category": "Shop by Category",
+  "featured_products": "Featured Products",
+  "featured_products_subtitle": "Discover our most popular shoes",
+  "view_all_products": "View All Products",
+  "quality_guaranteed": "Quality Guaranteed",
+  "quality_guaranteed_text": "We only sell authentic products with a full guarantee",
+  "fast_delivery": "Fast Delivery",
+  "fast_delivery_text": "Receive your shoes in 1 to 3 business days",
+  "secure_payment": "Secure Payment",
+  "secure_payment_text": "Multiple payment options with enhanced security",
+  "home": {
+    "special_offer": "Special Offer",
+    "shop_now": "Shop Now",
+    "learn_more": "Learn More",
+    "prev_slide": "Previous Slide",
+    "next_slide": "Next Slide",
+    "go_to_slide": "Go to Slide",
+    "shop_by_category": "Shop by Category",
+    "featured_products": "Featured Products",
+    "discover_popular": "Discover the most popular products in our shop",
+    "view_all_products": "View All Products",
+    "quality_guaranteed": "Quality Guaranteed",
+    "authentic_products": "100% Authentic Products",
+    "fast_delivery": "Fast Delivery",
+    "delivery_time": "Delivery in 1 to 3 business days",
+    "secure_payment": "Secure Payment",
+    "secure_payment_description": "Safe and encrypted payment methods"
+  },
+  "footer": {
+    "title": "YouShoes",
+    "description": "Premium shoes for every occasion. Quality and comfort guaranteed.",
+    "quick_links": "Quick Links",
+    "about_us": "About Us",
+    "contact": "Contact",
+    "faq": "FAQ",
+    "shipping_policy": "Shipping Policy",
+    "categories": "Categories",
+    "connect_with_us": "Connect With Us",
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "twitter": "Twitter",
+    "rights_reserved": "All rights reserved."
+  },
+  "login": {
+    "welcome": "Welcome Back",
+    "signInPrompt": "Sign in to continue",
+    "email": "Email",
+    "emailPlaceholder": "Enter your email",
+    "password": "Password",
+    "passwordPlaceholder": "Enter your password",
+    "rememberMe": "Remember me",
+    "forgotPassword": "Forgot password?",
+    "signIn": "Sign In",
+    "noAccount": "Don't have an account?",
+    "signUp": "Sign up"
+  },
+  "register": {
+    "title": "Create an Account",
+    "subtitle": "Sign up to get started",
+    "name": "Name",
+    "namePlaceholder": "Enter your name",
+    "email": "Email",
+    "emailPlaceholder": "Enter your email",
+    "password": "Password",
+    "passwordPlaceholder": "Enter your password",
+    "confirmPassword": "Confirm Password",
+    "confirmPasswordPlaceholder": "Confirm your password",
+    "signUp": "Sign Up",
+    "haveAccount": "Already have an account?",
+    "signIn": "Sign in"
+  },
+   "cart": {
+    "title": "Shopping Cart",
+    "empty": {
+      "title": "Your cart is empty",
+      "description": "Start shopping to add items to your cart.",
+      "button": "Continue Shopping"
+    },
+    "product": {
+      "inStock": "In stock",
+      "ships": "Ships in 24h - 48h"
+    },
+    "actions": {
+      "addMore": "Add more products"
+    },
+    "delivery": {
+      "title": "Delivery Information",
+      "fullName": "Full Name",
+      "fullNamePlaceholder": "Jane Smith",
+      "phone": "Phone Number",
+      "phonePlaceholder": "+1 (555) 000-0000",
+      "city": "City",
+      "cityPlaceholder": "New York",
+      "address": "Delivery Address",
+      "addressPlaceholder": "123 Main St, Apt 4B"
+    },
+    "summary": {
+      "title": "Order summary",
+      "subtotal": "Subtotal",
+      "shipping": "Shipping",
+      "cod": "Cash on delivery",
+      "total": "Order total",
+      "free": "Free"
+    },
+    "checkout": {
+      "button": "Confirm order",
+      "processing": "Processing..."
+    }
+  },
+  "thanks": {
+  "title": "Thank you for your order!",
+  "subtitle": "Your order has been successfully placed.",
+  "summary_title": "Order Summary",
+  "order_number": "Order Number",
+  "total_price": "Total Price",
+  "status": "Status",
+  "details_title": "Order Details",
+  "quantity": "Quantity",
+  "sizes": "Sizes",
+  "colors": "Colors",
+  "whatsapp_message": "You will receive a WhatsApp message with your order details shortly."
+},
+"contact": {
+    "pageTitle": "Get in Touch",
+    "pageSubtitle": "We'd love to hear from you. Fill out the form below.",
+    "form": {
+      "fullName": "Full Name",
+      "fullNamePlaceholder": "John Doe",
+      "phone": "Phone Number (optional)",
+      "phonePlaceholder": "+1 (555) 123-4567",
+      "email": "Email Address (optional)",
+      "emailPlaceholder": "name@example.com",
+      "message": "Message",
+      "messagePlaceholder": "How can we help you?",
+      "submitButton": "Send Message",
+      "sending": "Sending..."
+    },
+    "privacyNotice": "We care about your data. Read our",
+    "privacyLink": "Privacy Policy",
+    "successMessage": {
+      "title": "Message Sent Successfully!",
+      "subtitle": "Thank you for reaching out. We'll get back to you shortly.",
+      "button": "Send Another Message"
+    },
+    "privacy": {
+      "title": "Privacy Policy",
+      "sections": {
+        "commitment": {
+          "title": "Our Commitment",
+          "content": "We are committed to protecting your personal information and your right to privacy."
+        },
+        "dataCollection": {
+          "title": "Data Collection",
+          "content": "We collect only the necessary data to process your requests and improve our services.",
+          "note": "This may include your name, email, shipping address, and purchase history."
+        },
+        "dataSharing": {
+          "title": "Data Sharing",
+          "content": "We never share or sell your data to third parties."
+        },
+        "yourRights": {
+          "title": "Your Rights",
+          "content": "You can contact us at any time to request deletion or access to your personal data.",
+          "subtitle": "Your rights include:",
+          "list": [
+            "The right to access your personal data",
+            "The right to rectify inaccurate personal data",
+            "The right to request deletion of your personal data",
+            "The right to restrict processing of your personal data"
+          ]
+        },
+        "contactUs": {
+          "title": "Contact Us",
+          "content": "For more information, please contact our support team.",
+          "email": "Email",
+          "emailValue": "younessamasri@gmail.com",
+          "phone": "Phone",
+          "phoneValue": "+212713595829"
+        },
+        "security": {
+          "title": "Security Measures",
+          "content": "We implement appropriate technical and organizational measures to protect your personal data against unauthorized or unlawful processing, accidental loss, destruction or damage."
+        },
+        "cookies": {
+          "title": "Cookies",
+          "content": "Our website uses cookies to enhance your browsing experience. You can adjust your cookie settings at any time through your browser settings."
+        }
+      },
+      "footer": {
+        "lastUpdated": "Last updated: May 10, 2025",
+        "closeButton": "Close",
+        "acceptButton": "I Accept"
+      }
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Support",
+    "description": "Find answers to common questions about our products and services",
+    "searchPlaceholder": "Search questions...",
+    "noResults": {
+      "title": "No results found",
+      "description": "We couldn't find any FAQs matching your search.",
+      "clearButton": "Clear search"
+    },
+    "contactSection": {
+      "title": "Still have questions?",
+      "description": "Can't find the answer you're looking for? Please feel free to reach out to our customer support team.",
+      "contactButton": "Contact Support"
+    },
+    "questions": [
+      {
+        "question": "How do I track my order?",
+        "answer": "You can track your order by clicking on the <a href=\"/checkout/thanks\" class=\"text-indigo-600 hover:underline\">Track</a> icon in the Navbar."
+      },
+      {
+        "question": "What is your return policy?",
+        "answer": "We accept returns within <strong>30 days</strong> of delivery for unused items."
+      },
+      {
+        "question": "Can I change my shipping address?",
+        "answer": "Yes, contact our <a href=\"/contact\" class=\"text-indigo-600 hover:underline\">support team</a> before the item ships."
+      },
+      {
+        "question": "Do you ship internationally?",
+        "answer": "Yes, we ship to most countries worldwide. <a href=\"/about\" class=\"text-indigo-600 hover:underline\">View details</a>."
+      },
+      {
+        "question": "How do I reset my password?",
+        "answer": "Click <a href=\"/forgot-password\" class=\"text-indigo-600 hover:underline\">Forgot Password</a> on the login page and follow the instructions."
+      }
+    ]
+  },
+  "offer": {
+    "featuredBadge": "Featured Offer",
+    "validUntil": "Valid until",
+    "discount": "% Off",
+    "viewProducts": "View Products",
+    "shareButton": "Share offer"
+  },
+   "products-index": {
+    "title": "Our Collection",
+    "search": {
+      "placeholder": "Search products..."
+    },
+    "filter": {
+      "button": "Filter",
+      "hideFilters": "Hide Filters",
+      "title": "Filters",
+      "clearAll": "Clear All",
+      "resetAll": "Reset All Filters"
+    },
+    "category": {
+      "label": "Category",
+      "allCategories": "All Categories"
+    },
+    "price": {
+      "label": "Price Range",
+      "min": "Min",
+      "max": "Max"
+    },
+    "gender": {
+      "label": "Gender",
+      "all": "All",
+      "men": "Men",
+      "women": "Women"
+    },
+    "colors": {
+      "label": "Colors"
+    },
+    "sizes": {
+      "label": "Sizes",
+      "prefix": "Size: "
+    },
+    "sortBy": {
+      "label": "Sort By",
+      "newest": "Latest",
+      "priceLowHigh": "Price: Low to High",
+      "priceHighLow": "Price: High to Low"
+    },
+    "tags": {
+      "label": "Tags"
+    }
+  },
+   "products-show": {
+    "breadcrumb": {
+      "home": "Home"
+    },
+    "product": {
+      "selected_image_alt": "Selected Product Image",
+      "rating_text": "reviews",
+      "color_label": "Color",
+      "color_required": "Please select a color",
+      "size_label": "Size",
+      "size_guide": "Size guide",
+      "size_required": "Please select a size",
+      "add_to_cart": "Add to Cart",
+      "add_to_cart_success": "Added to Cart!",
+      "add_to_cart_error": "Failed to add to cart."
+    },
+    "shipping": {
+      "free_shipping": "Free shipping on orders",
+      "easy_returns": "Easy 30-day returns"
+    }
+  },
+   "shipping-policy": {
+    "title": "Shipping Policy",
+    "subtitle": "Everything you need to know about shipping your orders",
+    "at-glance": {
+      "title": "At a Glance",
+      "description": "We aim to ship all orders within 1-2 business days.",
+      "processing-time": {
+        "title": "Processing Time",
+        "value": "1-2 business days"
+      },
+      "domestic-shipping": {
+        "title": "Domestic Shipping",
+        "value": "we will provide this service soon"
+      },
+      "international-shipping": {
+        "title": "International Shipping",
+        "value": "we will provide this service soon"
+      }
+    },
+    "shipping-times": {
+      "title": "Shipping Times",
+      "casablanca": "Casablanca shipping: 24h - 48h",
+      "other-cities": "Other cities: 24h - 72h"
+    },
+    "shipping-costs": {
+      "title": "Shipping Costs",
+      "description": "We currently deliver across Morocco. Shipping costs are based on your location.",
+      "casablanca-cost": "Casablanca: Free delivery",
+      "other-cities-cost": "Other cities: Delivery cost ranges between 20 DH and 30 DH",
+      "help": {
+        "title": "Need Help?",
+        "description": "For questions about shipping fees or delivery times, please",
+        "contact-link": "contact our support team"
+      }
+    },
+    "tracking": {
+      "title": "Tracking Your Order",
+      "description": "Once your order ships, you'll receive a confirmation email with a",
+      "tracking-link": "tracking link",
+      "info": "You can also track your order anytime from your account dashboard."
+    },
+    "delays": {
+      "title": "Delays & Issues",
+      "description": "If your order is delayed or lost, please",
+      "contact-link": "contact our support team",
+      "warning": "Please note that during peak seasons (holidays, special promotions), delays of 1-3 days may occur."
+    },
+    "footer": {
+      "title": "Have more questions?",
+      "description": "Check our comprehensive FAQ section or reach out to our customer service team.",
+      "view-faqs": "View FAQs",
+      "contact-support": "Contact Support"
+    }
+  },
+   "wishlist-list": {
+    "title": "My Wishlist",
+    "empty": "Your wishlist is empty.",
+    "remove": "Remove from wishlist",
+    "toggle": "Toggle wishlist",
+    "product_alt": "Product image",
+    "success_toggle": "Wishlist updated successfully",
+    "success_remove": "Product removed from wishlist",
+    "error_toggle": "Failed to toggle wishlist",
+    "error_remove": "Failed to remove from wishlist"
+  },
+  "about": {
+    "title": "Store Information",
+    "subtitle": "Welcome to our specialized shoe store in Morocco!",
+    "delivery": {
+      "title": "Delivery Information",
+      "cod": "Cash on Delivery (COD)",
+      "bank_payment": "Payment through bank agencies",
+      "fast_delivery": "Fast delivery within 24 to 72 hours to all cities in Morocco.",
+      "free_delivery": "Free delivery within Casablanca.",
+      "delivery_cost": "Delivery cost 20 MAD for all other cities.",
+      "support": "24/7 technical support to answer all your inquiries.",
+      "return_policy": "Easy return policy within 7 days of receipt."
+    },
+    "contact": {
+      "title": "Contact Information",
+      "shop_name": "YouShoes shop",
+      "phone": "+212 7 13 59 58 29",
+      "email": "youshoesshoping@gmail.com"
+    },
+    "important_note": {
+      "title": "Important Note",
+      "message": "We guarantee you product quality, fast delivery and excellent customer service.",
+      "thanks": "Thank you for your trust in us!"
+    },
+    "browse_products": "Browse Products"
+  },
+  "order-not-found-component": {
+    "title": "Order Not Found",
+    "subtitle": "We couldn't locate the order you're looking for.",
+    "what-happened-title": "What happened?",
+    "reasons-intro": "There might be several reasons why your order couldn't be found:",
+    "reason-incorrect": "The order number might be incorrect",
+    "reason-cancelled": "The order might have been cancelled",
+    "reason-system": "There might be a temporary system issue",
+    "error-message": "If you believe this is an error, please contact our support team for assistance.",
+    "help-message": "Need help with your order? Contact our customer service through WhatsApp.",
+    "browse-products": "Browse Products",
+    "contact-support": "Contact Support"
+  },
+  "product-card-component": {
+    "shop-now": "Shop Now",
+    "currency": "MAD"
+  },
+  "product-list-component": {
+    "showing": "Showing:",
+    "latest": "Latest",
+    "price_low_to_high": "Price: Low to High",
+    "price_high_to_low": "Price: High to Low"
+  },
+  "track-order-component": {
+    "track-my-order": "Track My Order"
+  },
+  "wishlist-modal-component": {
+    "title": "My Wishlist",
+    "loading": "Loading your wishlist...",
+    "empty_title": "Your wishlist is empty",
+    "empty_description": "Items you add to your wishlist will appear here",
+    "continue_shopping": "Continue Shopping",
+    "add_to_cart": "Add to cart",
+    "remove_from_wishlist": "Remove from wishlist"
+  },
+   "confirm-modal-component": {
+    "title": "Confirm Deletion",
+    "default_message": "Are you sure you want to delete?",
+    "delete_button": "Delete",
+    "cancel_button": "Cancel"
+  },
+  "danger-alert-component": {
+    "info_label": "Info",
+    "close_label": "Close"
+  }
+}

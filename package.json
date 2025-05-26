@@ -1,0 +1,31 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "build": "vite build",
+        "dev": "vite"
+    },
+    "devDependencies": {
+        "@tailwindcss/vite": "^4.0.8",
+        "axios": "^1.7.4",
+        "concurrently": "^9.0.1",
+        "laravel-vite-plugin": "^1.2.0",
+        "tailwindcss": "^4.0.16",
+        "vite": "^6.0.11"
+    },
+    "dependencies": {
+        "@inertiajs/inertia-vue3": "^0.6.0",
+        "@inertiajs/vue3": "^2.0.5",
+        "@vitejs/plugin-vue": "^5.2.1",
+        "autoprefixer": "^10.4.21",
+        "chart.js": "^4.4.8",
+        "postcss": "^8.5.3",
+        "uuid": "^11.1.0",
+        "vue-chartjs": "^5.3.2",
+        "vue-i18n": "^9.14.4",
+        "vue-router": "^4.5.0",
+        "vue-toastification": "^2.0.0-rc.5",
+        "ziggy": "^2.4.0",
+        "ziggy-js": "^2.5.2"
+    }
+}

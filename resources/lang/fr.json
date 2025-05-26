@@ -1,0 +1,453 @@
+{
+  "Shop": "Boutique",
+  "Categories": "Catégories",
+  "About": "À propos",
+  "Contact Us": "Contactez-nous",
+  "Track": "Suivre",
+  "Saved": "Enregistré",
+  "Account": "Compte",
+  "special_offer": "Offre spéciale",
+  "shop_now": "Acheter maintenant",
+  "learn_more": "En savoir plus",
+  "shop_by_category": "Acheter par catégorie",
+  "featured_products": "Produits vedettes",
+  "featured_products_subtitle": "Découvrez nos chaussures les plus populaires",
+  "view_all_products": "Voir tous les produits",
+  "quality_guaranteed": "Qualité garantie",
+  "quality_guaranteed_text": "Nous ne vendons que des produits authentiques avec une garantie complète",
+  "fast_delivery": "Livraison rapide",
+  "fast_delivery_text": "Recevez vos chaussures en 1 à 3 jours ouvrables",
+  "secure_payment": "Paiement sécurisé",
+  "secure_payment_text": "Options de paiement multiples avec sécurité renforcée",
+  "home": {
+    "special_offer": "Offre spéciale",
+    "shop_now": "Acheter maintenant",
+    "learn_more": "En savoir plus",
+    "prev_slide": "Diapositive précédente",
+    "next_slide": "Diapositive suivante",
+    "go_to_slide": "Aller à la diapositive",
+    "shop_by_category": "Acheter par catégorie",
+    "featured_products": "Produits vedettes",
+    "discover_popular": "Découvrez les produits les plus populaires de notre boutique",
+    "view_all_products": "Voir tous les produits",
+    "quality_guaranteed": "Qualité garantie",
+    "authentic_products": "Produits 100 % authentiques",
+    "fast_delivery": "Livraison rapide",
+    "delivery_time": "Livraison en 1 à 3 jours ouvrables",
+    "secure_payment": "Paiement sécurisé",
+    "secure_payment_description": "Méthodes de paiement sûres et cryptées"
+  },
+  "footer": {
+    "title": "YouShoes",
+    "description": "Chaussures haut de gamme pour toutes les occasions. Qualité et confort garantis.",
+    "quick_links": "Liens rapides",
+    "about_us": "À propos de nous",
+    "contact": "Contact",
+    "faq": "FAQ",
+    "shipping_policy": "Politique d'expédition",
+    "categories": "Catégories",
+    "connect_with_us": "Suivez-nous",
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "twitter": "Twitter",
+    "rights_reserved": "Tous droits réservés."
+  },
+  "login": {
+    "welcome": "Bon retour",
+    "signInPrompt": "Connectez-vous pour continuer",
+    "email": "E-mail",
+    "emailPlaceholder": "Entrez votre e-mail",
+    "password": "Mot de passe",
+    "passwordPlaceholder": "Entrez votre mot de passe",
+    "rememberMe": "Se souvenir de moi",
+    "forgotPassword": "Mot de passe oublié ?",
+    "signIn": "Se connecter",
+    "noAccount": "Vous n'avez pas de compte ?",
+    "signUp": "Inscrivez-vous"
+  },
+  "register": {
+    "title": "Créer un compte",
+    "subtitle": "Inscrivez-vous pour commencer",
+    "name": "Nom",
+    "namePlaceholder": "Entrez votre nom",
+    "email": "E-mail",
+    "emailPlaceholder": "Entrez votre e-mail",
+    "password": "Mot de passe",
+    "passwordPlaceholder": "Entrez votre mot de passe",
+    "confirmPassword": "Confirmer le mot de passe",
+    "confirmPasswordPlaceholder": "Confirmez votre mot de passe",
+    "signUp": "S'inscrire",
+    "haveAccount": "Vous avez déjà un compte ?",
+    "signIn": "Se connecter"
+  },
+   "cart": {
+    "title": "Panier d'achat",
+    "empty": {
+      "title": "Votre panier est vide",
+      "description": "Commencez vos achats pour ajouter des articles à votre panier.",
+      "button": "Continuer les achats"
+    },
+    "product": {
+      "inStock": "En stock",
+      "ships": "Expédition sous 24h - 48h"
+    },
+    "actions": {
+      "addMore": "Ajouter plus de produits"
+    },
+    "delivery": {
+      "title": "Informations de livraison",
+      "fullName": "Nom complet",
+      "fullNamePlaceholder": "Marie Dupont",
+      "phone": "Numéro de téléphone",
+      "phonePlaceholder": "+33 6 12 34 56 78",
+      "city": "Ville",
+      "cityPlaceholder": "Paris",
+      "address": "Adresse de livraison",
+      "addressPlaceholder": "123 Rue Principale, Apt 4B"
+    },
+    "summary": {
+      "title": "Récapitulatif de la commande",
+      "subtotal": "Sous-total",
+      "shipping": "Frais de livraison",
+      "cod": "Paiement à la livraison",
+      "total": "Total de la commande",
+      "free": "Gratuit"
+    },
+    "checkout": {
+      "button": "Confirmer la commande",
+      "processing": "Traitement en cours..."
+    }
+  },
+  "thanks": {
+    "title": "Merci pour votre commande!",
+    "subtitle": "Votre commande a été passée avec succès. Voici les détails.",
+    "summary_title": "Résumé de la commande",
+    "order_number": "Numéro de commande",
+    "total_price": "Prix total",
+    "status": "Statut",
+    "details_title": "Détails de la commande",
+    "quantity": "Quantité",
+    "sizes": "Tailles",
+    "colors": "Couleurs",
+    "whatsapp_message": "Vous recevrez bientôt un message WhatsApp contenant les détails de votre commande."
+  },
+  "contact": {
+    "pageTitle": "Contactez-nous",
+    "pageSubtitle": "Nous aimerions avoir de vos nouvelles. Remplissez le formulaire ci-dessous.",
+    "form": {
+      "fullName": "Nom complet",
+      "fullNamePlaceholder": "Jean Dupont",
+      "phone": "Numéro de téléphone (facultatif)",
+      "phonePlaceholder": "+33 6 12 34 56 78",
+      "email": "Adresse e-mail (facultatif)",
+      "emailPlaceholder": "nom@exemple.com",
+      "message": "Message",
+      "messagePlaceholder": "Comment pouvons-nous vous aider ?",
+      "submitButton": "Envoyer le message",
+      "sending": "Envoi en cours..."
+    },
+    "privacyNotice": "Nous nous soucions de vos données. Lisez notre",
+    "privacyLink": "Politique de confidentialité",
+    "successMessage": {
+      "title": "Message envoyé avec succès !",
+      "subtitle": "Merci de nous avoir contactés. Nous vous répondrons dans les plus brefs délais.",
+      "button": "Envoyer un autre message"
+    },
+    "privacy": {
+      "title": "Politique de confidentialité",
+      "sections": {
+        "commitment": {
+          "title": "Notre engagement",
+          "content": "Nous nous engageons à protéger vos informations personnelles et votre droit à la vie privée."
+        },
+        "dataCollection": {
+          "title": "Collecte de données",
+          "content": "Nous collectons uniquement les données nécessaires pour traiter vos demandes et améliorer nos services.",
+          "note": "Cela peut inclure votre nom, email, adresse de livraison et historique d'achat."
+        },
+        "dataSharing": {
+          "title": "Partage de données",
+          "content": "Nous ne partageons ni ne vendons jamais vos données à des tiers."
+        },
+        "yourRights": {
+          "title": "Vos droits",
+          "content": "Vous pouvez nous contacter à tout moment pour demander la suppression ou l'accès à vos données personnelles.",
+          "subtitle": "Vos droits comprennent :",
+          "list": [
+            "Le droit d'accéder à vos données personnelles",
+            "Le droit de rectifier des données personnelles inexactes",
+            "Le droit de demander la suppression de vos données personnelles",
+            "Le droit de restreindre le traitement de vos données personnelles"
+          ]
+        },
+        "contactUs": {
+          "title": "Contactez-nous",
+          "content": "Pour plus d'informations, veuillez contacter notre équipe d'assistance.",
+          "email": "Email",
+          "emailValue": "younessamasri@gmail.com",
+          "phone": "Téléphone",
+          "phoneValue": "+212713595829"
+        },
+        "security": {
+          "title": "Mesures de sécurité",
+          "content": "Nous mettons en œuvre des mesures techniques et organisationnelles appropriées pour protéger vos données personnelles contre tout traitement non autorisé ou illégal, ainsi que contre la perte, la destruction ou les dommages accidentels."
+        },
+        "cookies": {
+          "title": "Cookies",
+          "content": "Notre site web utilise des cookies pour améliorer votre expérience de navigation. Vous pouvez ajuster vos paramètres de cookies à tout moment via les paramètres de votre navigateur."
+        }
+      },
+      "footer": {
+        "lastUpdated": "Dernière mise à jour : 10 mai 2025",
+        "closeButton": "Fermer",
+        "acceptButton": "J'accepte"
+      }
+    }
+  },
+    "faq": {
+    "title": "Questions Fréquemment Posées",
+    "subtitle": "Assistance",
+    "description": "Trouvez des réponses aux questions courantes sur nos produits et services",
+    "searchPlaceholder": "Rechercher des questions...",
+    "noResults": {
+      "title": "Aucun résultat trouvé",
+      "description": "Nous n'avons trouvé aucune FAQ correspondant à votre recherche.",
+      "clearButton": "Effacer la recherche"
+    },
+    "contactSection": {
+      "title": "Vous avez encore des questions?",
+      "description": "Vous ne trouvez pas la réponse que vous cherchez? N'hésitez pas à contacter notre équipe d'assistance.",
+      "contactButton": "Contacter l'assistance"
+    },
+    "questions": [
+      {
+        "question": "Comment puis-je suivre ma commande?",
+        "answer": "Vous pouvez suivre votre commande en cliquant sur l'icône <a href=\"/checkout/thanks\" class=\"text-indigo-600 hover:underline\">Suivi</a> dans la barre de navigation."
+      },
+      {
+        "question": "Quelle est votre politique de retour?",
+        "answer": "Nous acceptons les retours dans les <strong>30 jours</strong> suivant la livraison pour les articles non utilisés."
+      },
+      {
+        "question": "Puis-je modifier mon adresse de livraison?",
+        "answer": "Oui, contactez notre <a href=\"/contact\" class=\"text-indigo-600 hover:underline\">équipe d'assistance</a> avant l'expédition de l'article."
+      },
+      {
+        "question": "Livrez-vous à l'international?",
+        "answer": "Oui, nous expédions vers la plupart des pays du monde. <a href=\"/about\" class=\"text-indigo-600 hover:underline\">Voir les détails</a>."
+      },
+      {
+        "question": "Comment réinitialiser mon mot de passe?",
+        "answer": "Cliquez sur <a href=\"/forgot-password\" class=\"text-indigo-600 hover:underline\">Mot de passe oublié</a> sur la page de connexion et suivez les instructions."
+      }
+    ]
+  },
+  "offer": {
+    "featuredBadge": "Offre Vedette",
+    "validUntil": "Valable jusqu'au",
+    "discount": "% de réduction",
+    "viewProducts": "Voir les produits",
+    "shareButton": "Partager l'offre"
+  },
+    "products-index": {
+    "title": "Notre Collection",
+    "search": {
+      "placeholder": "Rechercher des produits..."
+    },
+    "filter": {
+      "button": "Filtrer",
+      "hideFilters": "Masquer les filtres",
+      "title": "Filtres",
+      "clearAll": "Tout effacer",
+      "resetAll": "Réinitialiser tous les filtres"
+    },
+    "category": {
+      "label": "Catégorie",
+      "allCategories": "Toutes les catégories"
+    },
+    "price": {
+      "label": "Fourchette de prix",
+      "min": "Min",
+      "max": "Max"
+    },
+    "gender": {
+      "label": "Genre",
+      "all": "Tous",
+      "men": "Hommes",
+      "women": "Femmes"
+    },
+    "colors": {
+      "label": "Couleurs"
+    },
+    "sizes": {
+      "label": "Tailles",
+      "prefix": "Taille: "
+    },
+    "sortBy": {
+      "label": "Trier par",
+      "newest": "Plus récents",
+      "priceLowHigh": "Prix: croissant",
+      "priceHighLow": "Prix: décroissant"
+    },
+    "tags": {
+      "label": "Étiquettes"
+    }
+  },
+  "products-show": {
+    "breadcrumb": {
+      "home": "Accueil"
+    },
+    "product": {
+      "selected_image_alt": "Image du produit sélectionné",
+      "rating_text": "avis",
+      "color_label": "Couleur",
+      "color_required": "Veuillez sélectionner une couleur",
+      "size_label": "Taille",
+      "size_guide": "Guide des tailles",
+      "size_required": "Veuillez sélectionner une taille",
+      "add_to_cart": "Ajouter au panier",
+      "add_to_cart_success": "Ajouté au panier !",
+      "add_to_cart_error": "Échec de l'ajout au panier."
+    },
+    "shipping": {
+      "free_shipping": "Livraison gratuite pour les commandes",
+      "easy_returns": "Retours faciles sous 30 jours"
+    }
+  },
+  "shipping-policy": {
+    "title": "Politique d'Expédition",
+    "subtitle": "Tout ce que vous devez savoir sur l'expédition de vos commandes",
+    "at-glance": {
+      "title": "En Un Coup d'Œil",
+      "description": "Nous visons à expédier toutes les commandes dans un délai de 1 à 2 jours ouvrables.",
+      "processing-time": {
+        "title": "Délai de Traitement",
+        "value": "1-2 jours ouvrables"
+      },
+      "domestic-shipping": {
+        "title": "Expédition Nationale",
+        "value": "nous fournirons bientôt ce service"
+      },
+      "international-shipping": {
+        "title": "Expédition Internationale",
+        "value": "nous fournirons bientôt ce service"
+      }
+    },
+    "shipping-times": {
+      "title": "Délais d'Expédition",
+      "casablanca": "Expédition Casablanca : 24h - 48h",
+      "other-cities": "Autres villes : 24h - 72h"
+    },
+    "shipping-costs": {
+      "title": "Coûts d'Expédition",
+      "description": "Nous livrons actuellement dans tout le Maroc. Les frais d'expédition sont basés sur votre emplacement.",
+      "casablanca-cost": "Casablanca : Livraison gratuite",
+      "other-cities-cost": "Autres villes : Le coût de livraison varie entre 20 DH et 30 DH",
+      "help": {
+        "title": "Besoin d'Aide ?",
+        "description": "Pour des questions sur les frais d'expédition ou les délais de livraison, veuillez",
+        "contact-link": "contacter notre équipe de support"
+      }
+    },
+    "tracking": {
+      "title": "Suivi de Votre Commande",
+      "description": "Une fois votre commande expédiée, vous recevrez un e-mail de confirmation avec un",
+      "tracking-link": "lien de suivi",
+      "info": "Vous pouvez également suivre votre commande à tout moment depuis votre tableau de bord de compte."
+    },
+    "delays": {
+      "title": "Retards et Problèmes",
+      "description": "Si votre commande est retardée ou perdue, veuillez",
+      "contact-link": "contacter notre équipe de support",
+      "warning": "Veuillez noter qu'en période de pointe (vacances, promotions spéciales), des retards de 1 à 3 jours peuvent survenir."
+    },
+    "footer": {
+      "title": "Vous avez d'autres questions ?",
+      "description": "Consultez notre section FAQ complète ou contactez notre équipe de service client.",
+      "view-faqs": "Voir la FAQ",
+      "contact-support": "Contacter le Support"
+    }
+  },
+  "wishlist-list": {
+    "title": "Ma Liste de Souhaits",
+    "empty": "Votre liste de souhaits est vide.",
+    "remove": "Retirer de la liste de souhaits",
+    "toggle": "Basculer la liste de souhaits",
+    "product_alt": "Image du produit",
+    "success_toggle": "Liste de souhaits mise à jour avec succès",
+    "success_remove": "Produit retiré de la liste de souhaits",
+    "error_toggle": "Échec de la modification de la liste de souhaits",
+    "error_remove": "Échec de la suppression de la liste de souhaits"
+  },
+  "about": {
+    "title": "Informations sur le Magasin",
+    "subtitle": "Bienvenue dans notre magasin spécialisé en chaussures au Maroc !",
+    "delivery": {
+      "title": "Informations de Livraison",
+      "cod": "Paiement à la livraison (COD)",
+      "bank_payment": "Paiement via les agences bancaires",
+      "fast_delivery": "Livraison rapide dans les 24 à 72 heures pour toutes les villes du Maroc.",
+      "free_delivery": "Livraison gratuite dans Casablanca.",
+      "delivery_cost": "Coût de livraison 20 MAD pour toutes les autres villes.",
+      "support": "Support technique 24/7 pour répondre à toutes vos questions.",
+      "return_policy": "Politique de retour facile dans les 7 jours suivant la réception."
+    },
+    "contact": {
+      "title": "Informations de Contact",
+      "shop_name": "YouShoes shop",
+      "phone": "+212 7 13 59 58 29",
+      "email": "youshoesshoping@gmail.com"
+    },
+    "important_note": {
+      "title": "Note Importante",
+      "message": "Nous vous garantissons la qualité des produits, une livraison rapide et un excellent service client.",
+      "thanks": "Merci pour votre confiance en nous !"
+    },
+    "browse_products": "Parcourir les Produits"
+  },
+  "order-not-found-component": {
+    "title": "Commande Introuvable",
+    "subtitle": "Nous n'avons pas pu localiser la commande que vous recherchez.",
+    "what-happened-title": "Que s'est-il passé ?",
+    "reasons-intro": "Il pourrait y avoir plusieurs raisons pour lesquelles votre commande n'a pas pu être trouvée :",
+    "reason-incorrect": "Le numéro de commande pourrait être incorrect",
+    "reason-cancelled": "La commande pourrait avoir été annulée",
+    "reason-system": "Il pourrait y avoir un problème système temporaire",
+    "error-message": "Si vous pensez qu'il s'agit d'une erreur, veuillez contacter notre équipe de support pour obtenir de l'aide.",
+    "help-message": "Besoin d'aide avec votre commande ? Contactez notre service client via WhatsApp.",
+    "browse-products": "Parcourir les Produits",
+    "contact-support": "Contacter le Support"
+  },
+  "product-card-component": {
+    "shop-now": "Acheter maintenant",
+    "currency": "MAD"
+  },
+  "product-list-component": {
+    "showing": "Affichage :",
+    "latest": "Plus récent",
+    "price_low_to_high": "Prix : Croissant",
+    "price_high_to_low": "Prix : Décroissant"
+  },
+  "track-order-component": {
+    "track-my-order": "Suivre ma commande"
+  },
+  "wishlist-modal-component": {
+    "title": "Ma Liste de Souhaits",
+    "loading": "Chargement de votre liste de souhaits...",
+    "empty_title": "Votre liste de souhaits est vide",
+    "empty_description": "Les articles que vous ajoutez à votre liste de souhaits apparaîtront ici",
+    "continue_shopping": "Continuer les Achats",
+    "add_to_cart": "Ajouter au panier",
+    "remove_from_wishlist": "Retirer de la liste de souhaits"
+  },
+  "confirm-modal-component": {
+    "title": "Confirmer la suppression",
+    "default_message": "Êtes-vous sûr de vouloir supprimer?",
+    "delete_button": "Supprimer",
+    "cancel_button": "Annuler"
+  },
+  "danger-alert-component": {
+    "info_label": "Information",
+    "close_label": "Fermer"
+  }
+}

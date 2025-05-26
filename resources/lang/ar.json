@@ -1,0 +1,453 @@
+{
+  "Shop": "المتجر",
+  "Categories": "الفئات",
+  "About": "من نحن",
+  "Contact Us": "اتصل بنا",
+  "Track": "تتبع",
+  "Saved": "المحفوظات",
+  "Account": "الحساب",
+  "special_offer": "عرض خاص",
+  "shop_now": "تسوق الآن",
+  "learn_more": "اعرف المزيد",
+  "shop_by_category": "تسوق حسب الفئة",
+  "featured_products": "المنتجات المميزة",
+  "featured_products_subtitle": "اكتشف أكثر أحذيتنا شهرة",
+  "view_all_products": "عرض جميع المنتجات",
+  "quality_guaranteed": "جودة مضمونة",
+  "quality_guaranteed_text": "نحن نبيع فقط المنتجات الأصلية مع ضمان كامل",
+  "fast_delivery": "توصيل سريع",
+  "fast_delivery_text": "احصل على حذائك خلال 1 إلى 3 أيام عمل",
+  "secure_payment": "دفع آمن",
+  "secure_payment_text": "خيارات دفع متعددة بأمان معزز",
+  "home": {
+    "special_offer": "عرض خاص",
+    "shop_now": "تسوق الآن",
+    "learn_more": "اعرف المزيد",
+    "prev_slide": "الشريحة السابقة",
+    "next_slide": "الشريحة التالية",
+    "go_to_slide": "اذهب إلى الشريحة",
+    "shop_by_category": "تسوق حسب الفئة",
+    "featured_products": "المنتجات المميزة",
+    "discover_popular": "اكتشف المنتجات الأكثر شهرة في متجرنا",
+    "view_all_products": "عرض جميع المنتجات",
+    "quality_guaranteed": "جودة مضمونة",
+    "authentic_products": "منتجات أصلية 100٪",
+    "fast_delivery": "توصيل سريع",
+    "delivery_time": "توصيل خلال 1 إلى 3 أيام عمل",
+    "secure_payment": "دفع آمن",
+    "secure_payment_description": "طرق دفع آمنة ومشفرة"
+  },
+  "footer": {
+    "title": "YouShoes",
+    "description": "أحذية فاخرة لكل مناسبة. الجودة والراحة مضمونة.",
+    "quick_links": "روابط سريعة",
+    "about_us": "من نحن",
+    "contact": "اتصل",
+    "faq": "الأسئلة الشائعة",
+    "shipping_policy": "سياسة الشحن",
+    "categories": "الفئات",
+    "connect_with_us": "تابعنا",
+    "facebook": "فيسبوك",
+    "instagram": "إنستغرام",
+    "twitter": "تويتر",
+    "rights_reserved": "جميع الحقوق محفوظة."
+  },
+  "login": {
+    "welcome": "مرحبًا بعودتك",
+    "signInPrompt": "قم بتسجيل الدخول للمتابعة",
+    "email": "البريد الإلكتروني",
+    "emailPlaceholder": "أدخل بريدك الإلكتروني",
+    "password": "كلمة المرور",
+    "passwordPlaceholder": "أدخل كلمة المرور الخاصة بك",
+    "rememberMe": "تذكرني",
+    "forgotPassword": "هل نسيت كلمة المرور؟",
+    "signIn": "تسجيل الدخول",
+    "noAccount": "ليس لديك حساب؟",
+    "signUp": "إنشاء حساب"
+  },
+  "register": {
+    "title": "إنشاء حساب",
+    "subtitle": "سجل للبدء",
+    "name": "الاسم",
+    "namePlaceholder": "أدخل اسمك",
+    "email": "البريد الإلكتروني",
+    "emailPlaceholder": "أدخل بريدك الإلكتروني",
+    "password": "كلمة المرور",
+    "passwordPlaceholder": "أدخل كلمة المرور الخاصة بك",
+    "confirmPassword": "تأكيد كلمة المرور",
+    "confirmPasswordPlaceholder": "أكد كلمة المرور",
+    "signUp": "إنشاء حساب",
+    "haveAccount": "هل لديك حساب بالفعل؟",
+    "signIn": "تسجيل الدخول"
+  },
+  "cart": {
+    "title": "سلة التسوق",
+    "empty": {
+      "title": "سلة التسوق فارغة",
+      "description": "ابدأ التسوق لإضافة منتجات إلى سلتك.",
+      "button": "مواصلة التسوق"
+    },
+    "product": {
+      "inStock": "متوفر في المخزون",
+      "ships": "يتم الشحن خلال 24 - 48 ساعة"
+    },
+    "actions": {
+      "addMore": "إضافة المزيد من المنتجات"
+    },
+    "delivery": {
+      "title": "معلومات التوصيل",
+      "fullName": "الاسم الكامل",
+      "fullNamePlaceholder": "محمد أحمد",
+      "phone": "رقم الهاتف",
+      "phonePlaceholder": "+966 50 123 4567",
+      "city": "المدينة",
+      "cityPlaceholder": "الرياض",
+      "address": "عنوان التسليم",
+      "addressPlaceholder": "123 شارع الرئيسي، شقة 4ب"
+    },
+    "summary": {
+      "title": "ملخص الطلب",
+      "subtotal": "المجموع الفرعي",
+      "shipping": "الشحن",
+      "cod": "الدفع عند الاستلام",
+      "total": "إجمالي الطلب",
+      "free": "مجاني"
+    },
+    "checkout": {
+      "button": "تأكيد الطلب",
+      "processing": "جاري المعالجة..."
+    }
+  },
+  "thanks": {
+    "title": "شكرًا لطلبك!",
+    "subtitle": "تم تقديم طلبك بنجاح. إليك التفاصيل.",
+    "summary_title": "ملخص الطلب",
+    "order_number": "رقم الطلب",
+    "total_price": "السعر الإجمالي",
+    "status": "الحالة",
+    "details_title": "تفاصيل الطلب",
+    "quantity": "الكمية",
+    "sizes": "المقاسات",
+    "colors": "الألوان",
+    "whatsapp_message": "ستتلقى قريبًا رسالة واتساب تحتوي على تفاصيل طلبك."
+  },
+  "contact": {
+    "pageTitle": "تواصل معنا",
+    "pageSubtitle": "نود سماع رأيك. املأ النموذج أدناه.",
+    "form": {
+      "fullName": "الاسم الكامل",
+      "fullNamePlaceholder": "محمد أحمد",
+      "phone": "رقم الهاتف (اختياري)",
+      "phonePlaceholder": "+966 50 123 4567",
+      "email": "البريد الإلكتروني (اختياري)",
+      "emailPlaceholder": "name@example.com",
+      "message": "الرسالة",
+      "messagePlaceholder": "كيف يمكننا مساعدتك؟",
+      "submitButton": "إرسال الرسالة",
+      "sending": "جاري الإرسال..."
+    },
+    "privacyNotice": "نحن نهتم ببياناتك. اقرأ",
+    "privacyLink": "سياسة الخصوصية",
+    "successMessage": {
+      "title": "تم إرسال الرسالة بنجاح!",
+      "subtitle": "شكرًا للتواصل معنا. سنرد عليك قريبًا.",
+      "button": "إرسال رسالة أخرى"
+    },
+    "privacy": {
+      "title": "سياسة الخصوصية",
+      "sections": {
+        "commitment": {
+          "title": "التزامنا",
+          "content": "نحن ملتزمون بحماية معلوماتك الشخصية وحقك في الخصوصية."
+        },
+        "dataCollection": {
+          "title": "جمع البيانات",
+          "content": "نحن نجمع فقط البيانات الضرورية لمعالجة طلباتك وتحسين خدماتنا.",
+          "note": "قد يشمل ذلك اسمك وبريدك الإلكتروني وعنوان الشحن وسجل المشتريات."
+        },
+        "dataSharing": {
+          "title": "مشاركة البيانات",
+          "content": "نحن لا نشارك أو نبيع بياناتك إلى أطراف ثالثة."
+        },
+        "yourRights": {
+          "title": "حقوقك",
+          "content": "يمكنك الاتصال بنا في أي وقت لطلب حذف أو الوصول إلى بياناتك الشخصية.",
+          "subtitle": "تشمل حقوقك:",
+          "list": [
+            "الحق في الوصول إلى بياناتك الشخصية",
+            "الحق في تصحيح البيانات الشخصية غير الدقيقة",
+            "الحق في طلب حذف بياناتك الشخصية",
+            "الحق في تقييد معالجة بياناتك الشخصية"
+          ]
+        },
+        "contactUs": {
+          "title": "اتصل بنا",
+          "content": "لمزيد من المعلومات، يرجى الاتصال بفريق الدعم لدينا.",
+          "email": "البريد الإلكتروني",
+          "emailValue": "younessamasri@gmail.com",
+          "phone": "الهاتف",
+          "phoneValue": "+212713595829"
+        },
+        "security": {
+          "title": "إجراءات الأمان",
+          "content": "نقوم بتنفيذ تدابير تقنية وتنظيمية مناسبة لحماية بياناتك الشخصية ضد المعالجة غير المصرح بها أو غير القانونية، والفقدان العرضي أو التدمير أو التلف."
+        },
+        "cookies": {
+          "title": "ملفات تعريف الارتباط",
+          "content": "يستخدم موقعنا ملفات تعريف الارتباط لتحسين تجربة التصفح. يمكنك ضبط إعدادات ملفات تعريف الارتباط في أي وقت من خلال إعدادات المتصفح."
+        }
+      },
+      "footer": {
+        "lastUpdated": "آخر تحديث: 10 مايو 2025",
+        "closeButton": "إغلاق",
+        "acceptButton": "أوافق"
+      }
+    }
+  },
+  "faq": {
+    "title": "الأسئلة الشائعة",
+    "subtitle": "الدعم",
+    "description": "اعثر على إجابات للأسئلة الشائعة حول منتجاتنا وخدماتنا",
+    "searchPlaceholder": "ابحث عن الأسئلة...",
+    "noResults": {
+      "title": "لم يتم العثور على نتائج",
+      "description": "لم نتمكن من العثور على أي أسئلة متكررة تطابق بحثك.",
+      "clearButton": "مسح البحث"
+    },
+    "contactSection": {
+      "title": "هل لا تزال لديك أسئلة؟",
+      "description": "لا يمكنك العثور على الإجابة التي تبحث عنها؟ لا تتردد في التواصل مع فريق دعم العملاء لدينا.",
+      "contactButton": "اتصل بالدعم"
+    },
+    "questions": [
+      {
+        "question": "كيف يمكنني تتبع طلبي؟",
+        "answer": "يمكنك تتبع طلبك بالنقر على أيقونة <a href=\"/checkout/thanks\" class=\"text-indigo-600 hover:underline\">التتبع</a> في شريط التنقل."
+      },
+      {
+        "question": "ما هي سياسة الإرجاع الخاصة بكم؟",
+        "answer": "نقبل المرتجعات في غضون <strong>30 يومًا</strong> من التسليم للعناصر غير المستخدمة."
+      },
+      {
+        "question": "هل يمكنني تغيير عنوان الشحن الخاص بي؟",
+        "answer": "نعم، اتصل <a href=\"/contact\" class=\"text-indigo-600 hover:underline\">بفريق الدعم</a> قبل شحن العنصر."
+      },
+      {
+        "question": "هل تقومون بالشحن دوليًا؟",
+        "answer": "نعم، نقوم بالشحن إلى معظم دول العالم. <a href=\"/about\" class=\"text-indigo-600 hover:underline\">عرض التفاصيل</a>."
+      },
+      {
+        "question": "كيف يمكنني إعادة تعيين كلمة المرور الخاصة بي؟",
+        "answer": "انقر على <a href=\"/forgot-password\" class=\"text-indigo-600 hover:underline\">نسيت كلمة المرور</a> في صفحة تسجيل الدخول واتبع التعليمات."
+      }
+    ]
+  },
+  "offer": {
+    "featuredBadge": "عرض مميز",
+    "validUntil": "صالح حتى",
+    "discount": "% خصم",
+    "viewProducts": "عرض المنتجات",
+    "shareButton": "مشاركة العرض"
+  },
+    "products-index": {
+    "title": "مجموعتنا",
+    "search": {
+      "placeholder": "البحث عن المنتجات..."
+    },
+    "filter": {
+      "button": "فلاتر",
+      "hideFilters": "إخفاء الفلاتر",
+      "title": "فلاتر",
+      "clearAll": "مسح الكل",
+      "resetAll": "إعادة ضبط كافة التصفيات"
+    },
+    "category": {
+      "label": "الفئة",
+      "allCategories": "جميع الفئات"
+    },
+    "price": {
+      "label": "نطاق السعر",
+      "min": "الحد الأدنى",
+      "max": "الحد الأقصى"
+    },
+    "gender": {
+      "label": "الجنس",
+      "all": "الكل",
+      "men": "رجال",
+      "women": "نساء"
+    },
+    "colors": {
+      "label": "الألوان"
+    },
+    "sizes": {
+      "label": "المقاسات",
+      "prefix": "المقاس: "
+    },
+    "sortBy": {
+      "label": "ترتيب حسب",
+      "newest": "الأحدث",
+      "priceLowHigh": "السعر: من الأقل إلى الأعلى",
+      "priceHighLow": "السعر: من الأعلى إلى الأقل"
+    },
+    "tags": {
+      "label": "العلامات"
+    }
+  },
+  "products-show": {
+    "breadcrumb": {
+      "home": "الرئيسية"
+    },
+    "product": {
+      "selected_image_alt": "صورة المنتج المحددة",
+      "rating_text": "مراجعات",
+      "color_label": "اللون",
+      "color_required": "يرجى اختيار لون",
+      "size_label": "المقاس",
+      "size_guide": "دليل المقاسات",
+      "size_required": "يرجى اختيار مقاس",
+      "add_to_cart": "أضف للسلة",
+      "add_to_cart_success": "تم الإضافة للسلة!",
+      "add_to_cart_error": "فشل في إضافة المنتج للسلة."
+    },
+    "shipping": {
+      "free_shipping": "شحن مجاني للطلبات",
+      "easy_returns": "إرجاع سهل خلال 30 يوم"
+    }
+  },
+  "shipping-policy": {
+    "title": "سياسة الشحن",
+    "subtitle": "كل ما تحتاج لمعرفته حول شحن طلباتك",
+    "at-glance": {
+      "title": "لمحة سريعة",
+      "description": "نهدف إلى شحن جميع الطلبات خلال 1-2 أيام عمل.",
+      "processing-time": {
+        "title": "وقت المعالجة",
+        "value": "1-2 أيام عمل"
+      },
+      "domestic-shipping": {
+        "title": "الشحن المحلي",
+        "value": "سنوفر هذه الخدمة قريباً"
+      },
+      "international-shipping": {
+        "title": "الشحن الدولي",
+        "value": "سنوفر هذه الخدمة قريباً"
+      }
+    },
+    "shipping-times": {
+      "title": "أوقات الشحن",
+      "casablanca": "شحن الدار البيضاء: 24 ساعة - 48 ساعة",
+      "other-cities": "المدن الأخرى: 24 ساعة - 72 ساعة"
+    },
+    "shipping-costs": {
+      "title": "تكاليف الشحن",
+      "description": "نحن نقوم بالتوصيل حالياً في جميع أنحاء المغرب. تعتمد تكاليف الشحن على موقعك.",
+      "casablanca-cost": "الدار البيضاء: توصيل مجاني",
+      "other-cities-cost": "المدن الأخرى: تتراوح تكلفة التوصيل بين 20 درهم و 30 درهم",
+      "help": {
+        "title": "تحتاج مساعدة؟",
+        "description": "للاستفسار عن رسوم الشحن أو أوقات التوصيل، يرجى",
+        "contact-link": "التواصل مع فريق الدعم"
+      }
+    },
+    "tracking": {
+      "title": "تتبع طلبك",
+      "description": "بمجرد شحن طلبك، ستتلقى بريداً إلكترونياً للتأكيد مع",
+      "tracking-link": "رابط التتبع",
+      "info": "يمكنك أيضاً تتبع طلبك في أي وقت من لوحة تحكم حسابك."
+    },
+    "delays": {
+      "title": "التأخير والمشاكل",
+      "description": "إذا تأخر طلبك أو فُقد، يرجى",
+      "contact-link": "التواصل مع فريق الدعم",
+      "warning": "يرجى ملاحظة أنه خلال مواسم الذروة (العطلات، العروض الترويجية الخاصة)، قد تحدث تأخيرات من 1-3 أيام."
+    },
+    "footer": {
+      "title": "لديك المزيد من الأسئلة؟",
+      "description": "تحقق من قسم الأسئلة الشائعة الشامل أو تواصل مع فريق خدمة العملاء.",
+      "view-faqs": "عرض الأسئلة الشائعة",
+      "contact-support": "التواصل مع الدعم"
+    }
+  },
+  "wishlist-list": {
+    "title": "قائمة أمنياتي",
+    "empty": "قائمة أمنياتك فارغة.",
+    "remove": "إزالة من قائمة الأمنيات",
+    "toggle": "تبديل قائمة الأمنيات",
+    "product_alt": "صورة المنتج",
+    "success_toggle": "تم تحديث قائمة الأمنيات بنجاح",
+    "success_remove": "تم إزالة المنتج من قائمة الأمنيات",
+    "error_toggle": "فشل في تبديل قائمة الأمنيات",
+    "error_remove": "فشل في إزالة المنتج من قائمة الأمنيات"
+  },
+  "about": {
+    "title": "معلومات عن المتجر",
+    "subtitle": "مرحبًا بكم في متجرنا المتخصص في بيع الأحذية بالمغرب!",
+    "delivery": {
+      "title": "معلومات التوصيل",
+      "cod": "الدفع عند الاستلام (COD)",
+      "bank_payment": "الدفع عن طريق الوكالات البنكية",
+      "fast_delivery": "توصيل سريع خلال 24 إلى 72 ساعة لجميع مدن المغرب.",
+      "free_delivery": "التوصيل مجاني داخل الدار البيضاء.",
+      "delivery_cost": "تكلفة التوصيل 20 درهم لجميع المدن الأخرى.",
+      "support": "دعم فني متواصل 24/7 للإجابة على جميع استفساراتكم.",
+      "return_policy": "سياسة إرجاع سهلة خلال 7 أيام من تاريخ الاستلام."
+    },
+    "contact": {
+      "title": "معلومات الاتصال",
+      "shop_name": "YouShoes shop",
+      "phone": "+212 7 13 59 58 29",
+      "email": "youshoesshoping@gmail.com"
+    },
+    "important_note": {
+      "title": "ملاحظة هامة",
+      "message": "نحن نضمن لكم جودة المنتجات وسرعة التوصيل وخدمة عملاء ممتازة.",
+      "thanks": "شكراً لكم على ثقتكم بنا!"
+    },
+    "browse_products": "تصفح المنتجات"
+  },
+  "order-not-found-component": {
+    "title": "الطلب غير موجود",
+    "subtitle": "لم نتمكن من العثور على الطلب الذي تبحث عنه.",
+    "what-happened-title": "ما الذي حدث؟",
+    "reasons-intro": "قد تكون هناك عدة أسباب لعدم العثور على طلبك:",
+    "reason-incorrect": "قد يكون رقم الطلب غير صحيح",
+    "reason-cancelled": "قد يكون الطلب قد تم إلغاؤه",
+    "reason-system": "قد تكون هناك مشكلة مؤقتة في النظام",
+    "error-message": "إذا كنت تعتقد أن هذا خطأ، يرجى الاتصال بفريق الدعم للحصول على المساعدة.",
+    "help-message": "تحتاج مساعدة في طلبك؟ اتصل بخدمة العملاء عبر واتساب.",
+    "browse-products": "تصفح المنتجات",
+    "contact-support": "اتصل بالدعم"
+  },
+  "product-card-component": {
+    "shop-now": "تسوق الآن",
+    "currency": "درهم"
+  },
+  "product-list-component": {
+    "showing": "عرض:",
+    "latest": "الأحدث",
+    "price_low_to_high": "السعر: من الأقل إلى الأعلى",
+    "price_high_to_low": "السعر: من الأعلى إلى الأقل"
+  },
+  "track-order-component": {
+    "track-my-order": "تتبع طلبي"
+  },
+   "wishlist-modal-component": {
+    "title": "قائمة أمنياتي",
+    "loading": "جاري تحميل قائمة أمنياتك...",
+    "empty_title": "قائمة أمنياتك فارغة",
+    "empty_description": "العناصر التي تضيفها إلى قائمة أمنياتك ستظهر هنا",
+    "continue_shopping": "متابعة التسوق",
+    "add_to_cart": "إضافة إلى السلة",
+    "remove_from_wishlist": "إزالة من قائمة الأمنيات"
+  },
+  "confirm-modal-component": {
+    "title": "تأكيد الحذف",
+    "default_message": "هل أنت متأكد من أنك تريد الحذف؟",
+    "delete_button": "حذف",
+    "cancel_button": "إلغاء"
+  },
+   "danger-alert-component": {
+    "info_label": "معلومات",
+    "close_label": "إغلاق"
+  }
+}
