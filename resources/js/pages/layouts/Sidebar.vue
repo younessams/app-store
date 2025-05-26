@@ -2,21 +2,9 @@
     <div class="min-h-screen bg-gray-100 fixed top-0 left-0 z-10">
       <div class="hidden md:block w-64 h-screen bg-white shadow-md">
         <!-- Logo section -->
-        <Link href="/">
-            <div class="flex items-center p-4 border-b">
-            <div class="p-2 bg-orange-100 rounded-md">
-                <svg class="w-6 h-6 text-orange-500" fill="currentColor" viewBox="0 0 24 24">
-                <path d="M19 7h-3V6a4 4 0 0 0-8 0v1H5a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2zm-9-1a2 2 0 0 1 4 0v1h-4V6zm9 13H5V9h14v10z" />
-                </svg>
-            </div>
-            <h1 class="ml-3 text-xl font-bold text-gray-800">Our Store</h1>
-            <button class="ml-auto text-gray-500">
-                <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
-                </svg>
-            </button>
-            </div>
-        </Link>
+        <div class="py-2">
+          <LogoStore />
+        </div>
   
         <!-- Menu sections -->
         <div class="px-4 py-2">
@@ -107,6 +95,7 @@
   <script setup>
   import { ref } from 'vue';
   import { Link } from '@inertiajs/vue3';
+import LogoStore from '../Components/LogoStore.vue';
   
   const productsOpen = ref(false);
   const categoryOpen = ref(false);
